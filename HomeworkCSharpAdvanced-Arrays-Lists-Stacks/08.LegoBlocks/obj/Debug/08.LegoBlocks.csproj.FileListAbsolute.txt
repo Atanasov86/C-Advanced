@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\08.LegoBlocks\bin\Debug\08.LegoBlocks.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\08.LegoBlocks\obj\Debug\08.LegoBlocks.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\08.LegoBlocks\obj\Debug\08.LegoBlocks.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\08.LegoBlocks\obj\Debug\08.LegoBlocks.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\06.SubsetSum\bin\Debug\06.SubsetSum.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\06.SubsetSum\bin\Debug\06.SubsetSum.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\06.SubsetSum\bin\Debug\06.SubsetSum.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\06.SubsetSum\obj\Debug\06.SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\06.SubsetSum\obj\Debug\06.SubsetSum.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\06.SubsetSum\obj\Debug\06.SubsetSum.pdb

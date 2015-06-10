@@ -1,0 +1,8 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\05.SortStudents\bin\Debug\05.SortStudents.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\05.SortStudents\bin\Debug\05.SortStudents.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\05.SortStudents\bin\Debug\05.SortStudents.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\05.SortStudents\bin\Debug\02.StudentsByGroup.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\05.SortStudents\bin\Debug\02.StudentsByGroup.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\05.SortStudents\obj\Debug\05.SortStudents.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\05.SortStudents\obj\Debug\05.SortStudents.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\05.SortStudents\obj\Debug\05.SortStudents.pdb

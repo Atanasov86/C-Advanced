@@ -1,0 +1,8 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\06.FilterStudentsByEmailDomain\bin\Debug\02.StudentsByGroup.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\06.FilterStudentsByEmailDomain\bin\Debug\02.StudentsByGroup.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.pdb

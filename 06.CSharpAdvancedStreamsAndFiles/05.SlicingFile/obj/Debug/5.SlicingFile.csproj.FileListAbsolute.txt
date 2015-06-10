@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\5.SlicingFile\bin\Debug\5.SlicingFile.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\5.SlicingFile\bin\Debug\5.SlicingFile.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\5.SlicingFile\bin\Debug\5.SlicingFile.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\5.SlicingFile\obj\Debug\5.SlicingFile.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\5.SlicingFile\obj\Debug\5.SlicingFile.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\5.SlicingFile\obj\Debug\5.SlicingFile.pdb

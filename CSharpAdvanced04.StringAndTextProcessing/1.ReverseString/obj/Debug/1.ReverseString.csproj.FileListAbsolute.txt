@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\1.ReverseString\bin\Debug\1.ReverseString.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\1.ReverseString\bin\Debug\1.ReverseString.exe
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\1.ReverseString\bin\Debug\1.ReverseString.pdb
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.exe
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\1.ReverseString\obj\Debug\1.ReverseString.csprojResolveAssemblyReference.cache

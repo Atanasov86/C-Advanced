@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\07.GenericArraySort\bin\Debug\07.GenericArraySort.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\07.GenericArraySort\obj\Debug\07.GenericArraySort.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\07.GenericArraySort\obj\Debug\07.GenericArraySort.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\07.GenericArraySort\obj\Debug\07.GenericArraySort.pdb

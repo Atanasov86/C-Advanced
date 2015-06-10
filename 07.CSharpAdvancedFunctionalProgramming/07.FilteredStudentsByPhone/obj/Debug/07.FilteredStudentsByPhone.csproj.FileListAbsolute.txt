@@ -1,0 +1,7 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\07.FilteredStudentsByPhone\bin\Debug\07.FilteredStudentsByPhone.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\07.FilteredStudentsByPhone\bin\Debug\07.FilteredStudentsByPhone.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\07.FilteredStudentsByPhone\bin\Debug\07.FilteredStudentsByPhone.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\07.FilteredStudentsByPhone\bin\Debug\02.StudentsByGroup.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\07.FilteredStudentsByPhone\bin\Debug\02.StudentsByGroup.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\07.FilteredStudentsByPhone\obj\Debug\07.FilteredStudentsByPhone.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\07.FilteredStudentsByPhone\obj\Debug\07.FilteredStudentsByPhone.pdb

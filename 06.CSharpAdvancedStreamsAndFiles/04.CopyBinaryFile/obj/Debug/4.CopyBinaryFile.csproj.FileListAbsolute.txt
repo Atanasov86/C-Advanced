@@ -1,0 +1,5 @@
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.pdb
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.exe
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.pdb

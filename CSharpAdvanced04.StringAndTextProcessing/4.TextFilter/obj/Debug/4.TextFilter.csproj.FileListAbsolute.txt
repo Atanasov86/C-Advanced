@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\4.TextFilter\bin\Debug\4.TextFilter.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\4.TextFilter\bin\Debug\4.TextFilter.exe
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\4.TextFilter\bin\Debug\4.TextFilter.pdb
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\4.TextFilter\obj\Debug\4.TextFilter.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\4.TextFilter\obj\Debug\4.TextFilter.exe
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\4.TextFilter\obj\Debug\4.TextFilter.pdb

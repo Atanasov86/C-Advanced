@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\1.OddLines\bin\Debug\1.OddLines.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\1.OddLines\bin\Debug\1.OddLines.exe
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\1.OddLines\bin\Debug\1.OddLines.pdb
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\1.OddLines\obj\Debug\1.OddLines.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\1.OddLines\obj\Debug\1.OddLines.exe
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\1.OddLines\obj\Debug\1.OddLines.pdb

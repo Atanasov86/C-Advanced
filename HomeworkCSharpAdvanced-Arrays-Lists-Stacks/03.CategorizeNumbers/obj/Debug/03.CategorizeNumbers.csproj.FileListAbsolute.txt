@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\03.CategorizeNumbers\bin\Debug\03.CategorizeNumbers.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\03.CategorizeNumbers\obj\Debug\03.CategorizeNumbers.pdb

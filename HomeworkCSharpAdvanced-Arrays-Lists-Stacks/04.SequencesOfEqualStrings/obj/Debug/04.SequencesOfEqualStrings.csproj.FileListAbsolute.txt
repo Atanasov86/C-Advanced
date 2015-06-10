@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\04.SequencesOfEqualStrings\bin\Debug\04.SequencesOfEqualStrings.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\04.SequencesOfEqualStrings\obj\Debug\04.SequencesOfEqualStrings.csprojResolveAssemblyReference.cache

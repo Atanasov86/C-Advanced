@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\3.ExtractEmails\bin\Debug\3.ExtractEmails.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\3.ExtractEmails\bin\Debug\3.ExtractEmails.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\3.ExtractEmails\bin\Debug\3.ExtractEmails.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\3.ExtractEmails\obj\Debug\3.ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\3.ExtractEmails\obj\Debug\3.ExtractEmails.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\3.ExtractEmails\obj\Debug\3.ExtractEmails.pdb

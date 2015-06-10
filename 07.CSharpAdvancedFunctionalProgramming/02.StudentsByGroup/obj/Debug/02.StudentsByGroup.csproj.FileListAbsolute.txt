@@ -1,0 +1,6 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\02.StudentsByGroup\obj\Debug\02.StudentsByGroup.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\02.StudentsByGroup\obj\Debug\02.StudentsByGroup.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\02.StudentsByGroup\obj\Debug\02.StudentsByGroup.pdb

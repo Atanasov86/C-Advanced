@@ -1,0 +1,8 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\08.ExelentStudents\bin\Debug\08.ExelentStudents.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\08.ExelentStudents\bin\Debug\08.ExelentStudents.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\08.ExelentStudents\bin\Debug\08.ExelentStudents.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\08.ExelentStudents\bin\Debug\02.StudentsByGroup.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\08.ExelentStudents\bin\Debug\02.StudentsByGroup.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\08.ExelentStudents\obj\Debug\08.ExelentStudents.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\08.ExelentStudents\obj\Debug\08.ExelentStudents.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\08.ExelentStudents\obj\Debug\08.ExelentStudents.csprojResolveAssemblyReference.cache

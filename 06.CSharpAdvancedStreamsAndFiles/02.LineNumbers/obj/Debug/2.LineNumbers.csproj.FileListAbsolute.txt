@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\02.LineNumbers\obj\Debug\2.LineNumbers.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

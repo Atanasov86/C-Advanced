@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\03.LargerThatNeighbours\bin\Debug\03.LargerThatNeighbours.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\03.LargerThatNeighbours\bin\Debug\03.LargerThatNeighbours.exe
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\03.LargerThatNeighbours\bin\Debug\03.LargerThatNeighbours.pdb
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\03.LargerThatNeighbours\obj\Debug\03.LargerThatNeighbours.exe
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\03.LargerThatNeighbours\obj\Debug\03.LargerThatNeighbours.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\03.LargerThatNeighbours\obj\Debug\03.LargerThatNeighbours.csprojResolveAssemblyReference.cache

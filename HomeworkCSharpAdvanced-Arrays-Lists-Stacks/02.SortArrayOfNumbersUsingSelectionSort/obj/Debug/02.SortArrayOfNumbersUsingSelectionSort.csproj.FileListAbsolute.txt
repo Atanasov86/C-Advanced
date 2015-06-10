@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\02.SortArrayOfNumbersUsingSelectionSort\bin\Debug\02.SortArrayOfNumbersUsingSelectionSort.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\02.SortArrayOfNumbersUsingSelectionSort\obj\Debug\02.SortArrayOfNumbersUsingSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\02.SortArrayOfNumbersUsingSelectionSort\bin\Debug\02.SortArrayOfNumbersUsingSelectionSort.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\02.SortArrayOfNumbersUsingSelectionSort\bin\Debug\02.SortArrayOfNumbersUsingSelectionSort.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\02.SortArrayOfNumbersUsingSelectionSort\obj\Debug\02.SortArrayOfNumbersUsingSelectionSort.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\02.SortArrayOfNumbersUsingSelectionSort\obj\Debug\02.SortArrayOfNumbersUsingSelectionSort.pdb

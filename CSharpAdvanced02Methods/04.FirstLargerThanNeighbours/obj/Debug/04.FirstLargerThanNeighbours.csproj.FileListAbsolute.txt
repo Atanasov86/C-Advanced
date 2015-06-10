@@ -1,0 +1,5 @@
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.pdb
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb

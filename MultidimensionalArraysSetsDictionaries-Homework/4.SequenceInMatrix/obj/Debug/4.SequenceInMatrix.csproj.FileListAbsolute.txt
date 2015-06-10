@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries-Homework\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries-Homework\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries-Homework\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries-Homework\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries-Homework\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\MultidimensionalArraysSetsDictionaries-Homework\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.pdb

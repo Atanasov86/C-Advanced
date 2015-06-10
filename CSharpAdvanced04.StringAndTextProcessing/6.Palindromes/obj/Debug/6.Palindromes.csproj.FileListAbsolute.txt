@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\6.Palindromes\bin\Debug\6.Palindromes.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\6.Palindromes\obj\Debug\6.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\6.Palindromes\bin\Debug\6.Palindromes.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\6.Palindromes\bin\Debug\6.Palindromes.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\6.Palindromes\obj\Debug\6.Palindromes.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced04.StringAndTextProcessing\6.Palindromes\obj\Debug\6.Palindromes.pdb

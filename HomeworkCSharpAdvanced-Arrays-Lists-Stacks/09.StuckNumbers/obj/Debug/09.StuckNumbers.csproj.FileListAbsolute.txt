@@ -1,0 +1,6 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\09.StuckNumbers\obj\Debug\09.StuckNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb

@@ -1,0 +1,5 @@
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\3.WordCount\bin\Debug\3.WordCount.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\3.WordCount\bin\Debug\3.WordCount.exe
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\3.WordCount\bin\Debug\3.WordCount.pdb
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\3.WordCount\obj\Debug\3.WordCount.exe
+c:\users\anton\documents\visual studio 2013\Projects\06.StreamsAndFiles\3.WordCount\obj\Debug\3.WordCount.pdb

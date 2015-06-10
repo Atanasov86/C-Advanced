@@ -1,0 +1,5 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\test\bin\Debug\test.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\test\bin\Debug\test.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\test\bin\Debug\test.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\test\obj\Debug\test.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\test\obj\Debug\test.pdb

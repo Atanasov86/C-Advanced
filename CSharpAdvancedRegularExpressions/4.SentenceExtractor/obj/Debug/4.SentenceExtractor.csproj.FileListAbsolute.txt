@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\4.SentenceExtractor\bin\Debug\4.SentenceExtractor.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\4.SentenceExtractor\bin\Debug\4.SentenceExtractor.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\4.SentenceExtractor\bin\Debug\4.SentenceExtractor.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\4.SentenceExtractor\obj\Debug\4.SentenceExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\4.SentenceExtractor\obj\Debug\4.SentenceExtractor.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvancedRegularExpressions\4.SentenceExtractor\obj\Debug\4.SentenceExtractor.pdb

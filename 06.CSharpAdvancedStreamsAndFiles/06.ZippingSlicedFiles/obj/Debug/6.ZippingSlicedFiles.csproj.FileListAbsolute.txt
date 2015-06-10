@@ -1,0 +1,6 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\6.ZippingSlicedFiles\bin\Debug\6.ZippingSlicedFiles.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\6.ZippingSlicedFiles\bin\Debug\6.ZippingSlicedFiles.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\6.ZippingSlicedFiles\bin\Debug\6.ZippingSlicedFiles.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\6.ZippingSlicedFiles\obj\Debug\6.ZippingSlicedFiles.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\6.ZippingSlicedFiles\obj\Debug\6.ZippingSlicedFiles.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\06.StreamsAndFiles\6.ZippingSlicedFiles\obj\Debug\6.ZippingSlicedFiles.pdb

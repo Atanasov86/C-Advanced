@@ -1,0 +1,6 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\test\bin\Debug\test.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\test\bin\Debug\test.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\test\bin\Debug\test.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\test\obj\Debug\test.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\HomeworkCSharpAdvanced-Arrays-Lists-Stacks\test\obj\Debug\test.pdb

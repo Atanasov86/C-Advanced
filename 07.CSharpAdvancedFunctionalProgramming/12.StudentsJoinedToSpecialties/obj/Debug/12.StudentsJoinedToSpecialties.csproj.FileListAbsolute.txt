@@ -1,0 +1,6 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\12.StudentsJoinedToSpecialties\bin\Debug\12.StudentsJoinedToSpecialties.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\12.StudentsJoinedToSpecialties\bin\Debug\12.StudentsJoinedToSpecialties.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\12.StudentsJoinedToSpecialties\bin\Debug\12.StudentsJoinedToSpecialties.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\12.StudentsJoinedToSpecialties\obj\Debug\12.StudentsJoinedToSpecialties.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\12.StudentsJoinedToSpecialties\obj\Debug\12.StudentsJoinedToSpecialties.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\07.CSharpAdvancedFunctionalProgramming\12.StudentsJoinedToSpecialties\obj\Debug\12.StudentsJoinedToSpecialties.pdb

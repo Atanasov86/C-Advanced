@@ -1,0 +1,5 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\CSharpAdvanced02Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\CSharpAdvanced02Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
