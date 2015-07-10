@@ -1,0 +1,6 @@
+C:\Users\Anton\documents\visual studio 2013\Projects\01.DefiningClass\02.LaptopShop\bin\Debug\02.LaptopShop.exe.config
+C:\Users\Anton\documents\visual studio 2013\Projects\01.DefiningClass\02.LaptopShop\obj\Debug\02.LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\Anton\documents\visual studio 2013\Projects\01.DefiningClass\02.LaptopShop\bin\Debug\02.LaptopShop.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\01.DefiningClass\02.LaptopShop\bin\Debug\02.LaptopShop.pdb
+C:\Users\Anton\documents\visual studio 2013\Projects\01.DefiningClass\02.LaptopShop\obj\Debug\02.LaptopShop.exe
+C:\Users\Anton\documents\visual studio 2013\Projects\01.DefiningClass\02.LaptopShop\obj\Debug\02.LaptopShop.pdb
